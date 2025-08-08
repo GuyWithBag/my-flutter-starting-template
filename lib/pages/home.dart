@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:room_monitoring_frontend/widgets/app_page/app_page.dart';
+import 'package:template/widgets/app_page/app_page.dart';
 
 // '/'
 

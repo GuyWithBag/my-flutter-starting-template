@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:room_monitoring_frontend/routes.dart';
-import 'package:room_monitoring_frontend/shared/themes/light_theme.dart';
+import 'package:template/routes.dart';
+import 'package:template/shared/themes/light_theme.dart';
 
 class App extends StatelessWidget {
   const App({super.key});

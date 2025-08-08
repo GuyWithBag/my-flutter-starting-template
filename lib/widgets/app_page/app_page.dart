@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_hooks/flutter_hooks.dart';
 import 'package:provider/provider.dart';
-import 'package:room_monitoring_frontend/controllers/controllers.dart';
-import 'package:room_monitoring_frontend/shared/themes/colors.dart';
+import 'package:template/controllers/controllers.dart';
+import 'package:template/shared/themes/colors.dart';
 
 class AppPage extends HookWidget {
   final Widget? child;

@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:room_monitoring_frontend/shared/types/app_bar_data.dart';
+import 'package:template/shared/types/app_bar_data.dart';
 
 class AppBarController extends ChangeNotifier {
   AppBarData state = AppBarData();

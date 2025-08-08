@@ -1,8 +1,8 @@
 import 'package:go_router/go_router.dart';
 import 'package:provider/provider.dart';
-import 'package:room_monitoring_frontend/controllers/controllers.dart';
-import 'package:room_monitoring_frontend/shared/page_transitions/page_transitions.dart';
-import 'package:room_monitoring_frontend/ui/ui.dart';
+import 'package:template/controllers/controllers.dart';
+import 'package:template/shared/page_transitions/page_transitions.dart';
+import 'package:template/ui/ui.dart';
 import 'pages/pages.dart';
 
 GoRouter routes = GoRouter(

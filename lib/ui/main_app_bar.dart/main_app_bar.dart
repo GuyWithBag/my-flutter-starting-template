@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
-import 'package:room_monitoring_frontend/controllers/app_bar_controller.dart';
-import 'package:room_monitoring_frontend/widgets/widgets.dart';
+import 'package:template/controllers/app_bar_controller.dart';
+import 'package:template/widgets/widgets.dart';
 
 import '../../shared/themes/colors.dart';
 
